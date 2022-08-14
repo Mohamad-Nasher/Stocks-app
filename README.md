@@ -9,4 +9,4 @@
 
 
 
-![](https://github.com/Mohamad-Nasher/Stocks-app/blob/main/stocks.gif = 250x250)
+![](https://github.com/Mohamad-Nasher/Stocks-app/blob/main/stocks.gif)
