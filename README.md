@@ -6,3 +6,7 @@
 -The app then returns the dataframe , info about the company , and the Return on Investment of your selected dates .
 
 -Make Sure you have a enviroment to run the code (Preferably Anaconda)
+
+
+
+![](https://github.com/Mohamad-Nasher/Stocks-app/blob/main/stocks.gif| width=100)
