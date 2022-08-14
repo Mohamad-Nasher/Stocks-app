@@ -8,5 +8,3 @@
 -Make Sure you have a enviroment to run the code (Preferably Anaconda)
 
 
-
-![](https://github.com/Mohamad-Nasher/Stocks-app/blob/main/stocks.gif)
